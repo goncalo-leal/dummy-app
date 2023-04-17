@@ -10,7 +10,7 @@ spec:
   selector:
     matchLabels:
       app: dummy-1
-  replicas: 1
+  replicas: 3
   template:
     metadata:
       labels:
